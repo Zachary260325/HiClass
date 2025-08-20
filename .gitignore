@@ -1,0 +1,4 @@
+__pycache__/
+.env
+toc/
+test_files/
